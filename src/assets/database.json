@@ -1,0 +1,1247 @@
+{
+    "resultats": [
+        {
+            "id": "7531173",
+            "intitule": "DÉVELOPPEUR FULL STACK (JAVA, J2EE & SEARCH-BASED APPLICATION) (H/F)",
+            "description": "Recherche: DÉVELOPPEUR FULL STACK (JAVA, J2EE & SEARCH-BASED APPLICATION) (H/F)\nImaginez demain. Dassault Systèmes, « The 3DEXPERIENCE Company », offre aux entreprises et aux particuliers les univers virtuels nécessaires à la conception d'innovations durables. Ses solutions leaders sur le marché transforment la conception, la fabrication et la maintenance de leurs produits et offrent de nouvelles possibilités d'améliorer le monde réel grâce aux univers virtuels. Au sein du département « Sales Application », vous intégrerez l'équipe « Licence Compliance Application » (gestion de la conformité des licences), constituée de 3 personnes dont le rôle est de maintenir et faire évoluer cette application. En tant qu'Ingénieur de Développement, vous interviendrez sur la modification de l'UI, des workflows et des Dashboards, dans le cadre des contrôles liés à l'utilisation des licences des produits Dassault Systèmes.Poste basé à Vélizy (Yvelines, 78) en CDI. JAVA J2EE WEB BIGDATA SEARCH-BASE... ",
+            "dateCreation": "2022-01-11T06:10:40.000Z",
+            "dateActualisation": "2022-01-11T06:10:40.000Z",
+            "lieuTravail": {
+                "libelle": "78 - VELIZY VILLACOUBLAY",
+                "latitude": 48.785897,
+                "longitude": 2.190524,
+                "commune": "78640"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse d'application",
+            "entreprise": {
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "D",
+            "experienceLibelle": "Débutant accepté",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7531173",
+                "partenaires": [
+                    {
+                        "nom": "JOBINTREE",
+                        "url": "https://www.jobintree.com/offre-emploi/dassault-systemes-7936/developpeur-full-stack-java-j2ee-search-based-application-39728819?utm_source=pole-emploi&utm_medium=flux-offres&utm_campaign=partenaire",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/jobintree80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6750548",
+            "intitule": "DÉVELOPPEUR D'APPLICATION JAVA/J2EE (H/F)",
+            "description": "Nous recherchons pour le compte de notre client spécialisé dans l'assurance et la prévoyance filiale  d'un acteur majeur du secteur bancaire.\nUn(e) développeur d'application JAVA J2EE (F/H)Vous évoluez au sein de l'équipe projet et vous développez les composants techniques nécessaires à la solution, de la réalisation jusqu'au service régulier en production.\nPar ailleurs, vous développez de nouvelles applications (réalisation, tests, .) et vous maintenez un parc d'applications puis vous effectuez l'intégration des composants dans l'usine logicielle\nAfin d'assurer le fonctionnement auprès des métiers, vous assurez le support technique auprès de la production.\nVous serez amené à travailler sur des projets dans le cadre de la stratégie digitale de l'entreprise. ",
+            "dateCreation": "2021-12-22T08:57:34.000Z",
+            "dateActualisation": "2021-12-23T03:48:55.000Z",
+            "lieuTravail": {
+                "libelle": "92 - PUTEAUX",
+                "latitude": 48.884331,
+                "longitude": 2.237254,
+                "commune": "92062"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse d'application",
+            "entreprise": {
+                "nom": "Randstad",
+                "description": "Randstad Search, Cabinet Conseil en Recrutement et Approche directe, intervient dans la recherche et l'évaluation des profils Middle et Top Management. Le cabinet est présent dans les principales métropoles françaises.\nLes consultants du Pôle Informatique & Télécommunications mettent à votre service leur expertise métier pour vous accompagner au mieux dans votre évolution professionnelle.",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 3 An(s)",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/6750548",
+                "partenaires": [
+                    {
+                        "nom": "HANDICAP_JOB",
+                        "url": "https://www.handicap-job.com/recherche/detail/oid/4650180/developpeur-dapplication-javaj2eehf-fh.html",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/handicap_job80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7323294",
+            "intitule": "Reconversion développeur - Java - Transport - IDF - F/H (H/F)",
+            "description": "Votre futur environnement de travail :\n\nVous êtes récemment diplômé(e) et souhaitez-vous reconvertir en informatique en CDI ?\nNous recherchons des candidat(e)s qui souhaitent s'orienter vers les métiers de l'informatique.\nEn lien avec Pole Emploi, vous participez à une formation de 3 mois (POEI) qui vous permet de suivre une formation en Java (mais pas que) afin de vous donner les compétences nécessaires à votre intégration au sein d'un de nos projets.\n\nVotre rôle et missions :\n\nA l'issue de la formation, vous rejoignez nos équipes en CDI sur un poste de développeur(se) Java. Cette formation vous permet ainsi d'élargir votre domaine de compétences fonctionnelles et techniques.\n\nVous êtes intégré(e) au sein d'une équipe d'une dizaine de personnes, qui veillera à votre bonne intégration, et favorisera votre montée en compétences par un suivi de proximité, en toute bienveillance.\n\nCe que nous vous proposons :\n\n- Progresser et développer vos compétences\nDe multiples outils de formation s'offrent à vous pour continuer à accroitre vos compétences techniques et comportementales (présentiel, Mooc, E-learning..)\n- Evoluer dans une entreprise qui encourage l'audace, la curiosité et l'envie d'entreprendre\nTous les deux ans, nous organisons les Innovation Awards qui récompensent les initiatives de nos collaborateurs. Les gagnants sont encouragés à développer leur projet, comme Phantom Limbs.\nDe formation école d'Ingénieurs Généralistes ou diplômé d'un Master 2 (mathématiques, sciences physiques, chimie, etc.), vous avez de bonnes capacités d'adaptation et un goût prononcé pour le travail en équipe. Vous connaissez les algorithmes et avez une appétence pour l'informatique.\n\nRejoignez-nous pour profiter d'une entreprise où règne un esprit entrepreneurial fort et propice à votre évolution : participez sans plus attendre à une véritable aventure humaine au sein d'un grand groupe international, qui met le digital au service de l'humain pour construire un avenir positif.\n\nChez Sopra Steria, nous sommes engagés pour lutter contre toute forme de discrimination. Nous favorisons un environnement de travail inclusif et respectueux de toutes les différences.\nTous nos postes sont ouverts aux personnes en situation de handicap. ",
+            "dateCreation": "2022-01-06T06:58:35.000Z",
+            "dateActualisation": "2022-01-06T06:58:35.000Z",
+            "lieuTravail": {
+                "libelle": "92 - NANTERRE",
+                "latitude": 2.396598,
+                "longitude": 48.867657,
+                "commune": "92050"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse d'application",
+            "entreprise": {
+                "nom": "Sopra Steria",
+                "description": "Sopra Steria, l'un des leaders européens du conseil, des services numériques et de l'édition de logiciels, aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Il apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. ",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée",
+            "salaire": {},
+            "dureeTravailLibelle": "35 H ",
+            "dureeTravailLibelleConverti": "Temps plein",
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "62",
+            "secteurActiviteLibelle": "Programmation informatique",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7323294",
+                "partenaires": [
+                    {
+                        "nom": "BROADBEAN",
+                        "url": "https://www.aplitrak.com/?adid=bWFyaW5lLmRhbmliby4zNzY2MS42NzA2QHNvcHJhc3RlcmlhLmFwbGl0cmFrLmNvbQ",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "124YDQG",
+            "intitule": "Développeur / développeuse fullstack (H/F)",
+            "description": "Maîtrise de Java étendue et des concepts JEE,\nSpring, (Spring MVC, Spring Security, SpringBoot), ANGULAR\nExpérience dans la mise en place et l'implémentation de WebServices REST JavaScript / Typescript, HTML5 / CSS, Angular,\nUtilisation et maîtrise de Git, Github, GitLab, GitFlow Connaissances du langage SQL, PL/SQL et de MySQL / Postgres\nL'usage des méthodes AGILES serait également un plus (SCRUM, TDD), \nDes connaissances en Intégration continue seront appréciées.",
+            "dateCreation": "2021-12-14T13:54:15.000Z",
+            "dateActualisation": "2022-01-08T16:13:38.000Z",
+            "lieuTravail": {
+                "libelle": "75 - PARIS 17",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "codePostal": "75017",
+                "commune": "75117"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse d'application",
+            "entreprise": {
+                "nom": "INFRONT",
+                "description": "Startup dans le domaine du développement logiciels",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "2 ans",
+            "formations": [
+                {
+                    "codeFormation": "31054",
+                    "domaineLibelle": "informatique",
+                    "niveauLibelle": "Bac+5 et plus ou équivalents",
+                    "exigence": "E"
+                }
+            ],
+            "competences": [
+                {
+                    "code": "102788",
+                    "libelle": "Langage informatique HTML",
+                    "exigence": "S"
+                },
+                {
+                    "code": "106861",
+                    "libelle": "Principes d'intégration de matériels et de logiciels",
+                    "exigence": "S"
+                },
+                {
+                    "code": "109791",
+                    "libelle": "Informatique de gestion",
+                    "exigence": "S"
+                },
+                {
+                    "code": "109862",
+                    "libelle": "Architecture web",
+                    "exigence": "S"
+                },
+                {
+                    "code": "109870",
+                    "libelle": "Langage informatique Java",
+                    "exigence": "S"
+                },
+                {
+                    "code": "109882",
+                    "libelle": "Langage informatique SQL",
+                    "exigence": "S"
+                },
+                {
+                    "code": "113277",
+                    "libelle": "Méthode AGILE",
+                    "exigence": "S"
+                },
+                {
+                    "code": "113279",
+                    "libelle": "Langage informatique J2EE",
+                    "exigence": "S"
+                },
+                {
+                    "code": "113735",
+                    "libelle": "Langage informatique XML",
+                    "exigence": "S"
+                },
+                {
+                    "code": "118748",
+                    "libelle": "Méthodologie Scrum",
+                    "exigence": "S"
+                },
+                {
+                    "code": "109845",
+                    "libelle": "Réaliser un prototype de la solution technique pour validation par le donneur d'ordres (configuration type, ...)",
+                    "exigence": "S"
+                },
+                {
+                    "code": "109846",
+                    "libelle": "Concevoir et développer les programmes et applications informatiques",
+                    "exigence": "S"
+                },
+                {
+                    "code": "113317",
+                    "libelle": "Développer une application en lien avec une base de données",
+                    "exigence": "S"
+                },
+                {
+                    "code": "117309",
+                    "libelle": "Établir un cahier des charges",
+                    "exigence": "S"
+                },
+                {
+                    "code": "118637",
+                    "libelle": "Analyser les besoins du client",
+                    "exigence": "S"
+                },
+                {
+                    "code": "120672",
+                    "libelle": "Réaliser des supports techniques",
+                    "exigence": "S"
+                },
+                {
+                    "code": "121055",
+                    "libelle": "Déterminer des mesures correctives",
+                    "exigence": "S"
+                },
+                {
+                    "code": "121398",
+                    "libelle": "Analyser des problèmes techniques",
+                    "exigence": "S"
+                },
+                {
+                    "code": "124517",
+                    "libelle": "Rédiger une Spécification Technique de Besoin (STB)",
+                    "exigence": "S"
+                },
+                {
+                    "code": "126535",
+                    "libelle": "Réaliser des études et développements informatiques",
+                    "exigence": "S"
+                },
+                {
+                    "libelle": "Anglais professionnel",
+                    "exigence": "S"
+                }
+            ],
+            "salaire": {
+                "libelle": "Annuel de 36000,00 Euros à 38000,00 Euros sur 12 mois",
+                "complement1": "Chèque repas",
+                "complement2": "Mutuelle"
+            },
+            "dureeTravailLibelle": "35H Horaires normaux",
+            "dureeTravailLibelleConverti": "Temps plein",
+            "alternance": false,
+            "contact": {
+                "nom": "INFRONT - M. DRISS BEN MESSAOUD",
+                "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/124YDQG",
+                "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/124YDQG"
+            },
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "58",
+            "secteurActiviteLibelle": "Édition de logiciels applicatifs",
+            "qualitesProfessionnelles": [
+                {
+                    "libelle": "Travail en équipe",
+                    "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide"
+                },
+                {
+                    "libelle": "Autonomie",
+                    "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable"
+                },
+                {
+                    "libelle": "Rigueur",
+                    "description": "Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction"
+                }
+            ],
+            "origineOffre": {
+                "origine": "1",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/124YDQG"
+            },
+            "offresManqueCandidats": false
+        },
+        {
+            "id": "7387128",
+            "intitule": "Ingénieur en Developpement et Déploiement d'applications Projet D.CLIC F/H - Informatique de gestion (H/F)",
+            "description": "Descriptif du poste:\n\nLe projet D.CLIC labellisé « Nouveaux Cursus à l'Université » est intégré au sein du Centre d'Innovation Pédagogique et Numérique. Il fait l'objet d'un Programme d'Investissement d'Avenir financé pendant 10 ans par l'ANR (Agence Nationale de la Recherche ).\nCe projet de transformation a pour objectif principal de favoriser les réussites des étudiants en licence et s'appuie pour cela sur trois leviers principaux : l'approche par compétence, l'orientation et l'insertion professionnelle, les parcours.\nL'ingénieur.e est rattaché.e à la Direction Générale Déléguée à l'Informatique et au Numérique sous l'autorité du responsable du Service Informatique de Gestion. Ses missions sont menées en collaboration avec la cheffe de projet et l'équipe D.Clic.\nL'ingénieur.e intervient sur la définition et la mise en oeuvre d'outils nécessaires aux « learning analytics » ou analyse de l'apprentissage et définit les données clés afin de les extraire et de les combiner. Une connaissance du Data Mining sera appréciée.\nL'ingénieur.e contribue aux choix techniques des solutions, à la planification et à l'évaluation de la charge de travail et rend compte de son activité.\nMissions principales\n- Construire et maintenir un entrepôt de données\n- Développer les scripts et applications nécessaires à l'alimentation de l'entrepôt\nde données\n- Élaborer la stratégie de tests fonctionnels et techniques, les concevoir\net les exécuter\n- Rédiger la documentation technique\n- Résoudre ou faire remonter les incidents et optimiser les performances\n- Assurer la maintenance évolutive et curative des développements réalisés\n- Assurer une assistance technique et éventuellement fonctionnelle aux utilisateurs\n- Participer à l'administration du système d'information en termes de référentiels,\nrègles, démarches, méthodologies et outils\n- Mutualiser les bonnes pratiques en matière d'utilisation du système d'information\n- Conduire un projet informatique\n\nProfil recherché:\n\nCompétences principales et spécifiques\n- Architecture et environnements techniques des systèmes d'information\n- Architecture et environnements des bases de données (maîtrise) : Oracle,\nPostgresql, MongoDB - Cassandra\n- Méthodologie de conduite de projet (connaissance approfondie)\n- Méthodes de modélisation et de développement liées aux ETL : Talend\n- Entrepôts de données et les outils de restitution\n- Outils de reporting : Jasper, Business Objects\n- Langages Java et les environnements de développement associés\n- Méthodes d'analyse et de conception\n- Méthodologie de tests (maîtrise)\n- Systèmes d'exploitation Linux et Windows\n- Sécurité des systèmes d'information et de communication ",
+            "dateCreation": "2022-01-07T09:37:58.000Z",
+            "dateActualisation": "2022-01-07T09:37:58.000Z",
+            "lieuTravail": {
+                "libelle": "77 - CHAMPS SUR MARNE",
+                "latitude": 48.851332,
+                "longitude": 2.59378,
+                "commune": "77083"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Ingénieur / Ingénieure de développement informatique",
+            "entreprise": {
+                "nom": "UNIVERSITE GUSTAVE EIFFEL",
+                "description": "\\nL'Université Gustave Eiffel est née de la fusion de l'Université Paris-Est Marne-la-Vallée et de l'IFSTTAR, l'institut de la recherche européenne sur la ville et les territoires, les transports et le génie civil. Elle intègre une école d'architecture, l'EAV&T, et trois écoles d'ingénieurs, l'EIVP, l'ENSG Géomatique et ESIEE Paris. En réunissant pour la première fois en France le triptyque université / organismes de recherche / écoles, elle aura en particulier vocation à dé...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDD",
+            "typeContratLibelle": "Contrat à durée déterminée - 12 Mois",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "D",
+            "experienceLibelle": "Débutant accepté",
+            "salaire": {
+                "commentaire": "A partir de 30 k€ brut annuel"
+            },
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "85",
+            "secteurActiviteLibelle": "Enseignement supérieur",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7387128",
+                "partenaires": [
+                    {
+                        "nom": "APEC",
+                        "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167396686W?xtor=AL-406",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/apec80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7344298",
+            "intitule": "Ingénieur.e en développement et déploiement d'application F/ F/H - Informatique de gestion (H/F)",
+            "description": "Descriptif du poste:\n\nLe projet D.CLIC labellisé « Nouveaux Cursus à l'Université » est intégré au sein du Centre d'Innovation Pédagogique et Numérique. Il fait l'objet d'un Programme d'Investissement d'Avenir financé pendant 10 ans par l'ANR (Agence Nationale de la Recherche ).\nCe projet de transformation a pour objectif principal de favoriser les réussites des étudiants en licence et s'appuie pour cela sur trois leviers principaux : l'approche par compétence, l'orientation et l'insertion professionnelle, les parcours.\nL'ingénieur.e est rattaché.e à la Direction Générale Déléguée à l'Informatique et au Numérique sous l'autorité du responsable du Service Informatique de Gestion. Ses missions sont menées en collaboration avec la cheffe de projet et l'équipe D.Clic.\nL'ingénieur.e intervient sur la définition et la mise en oeuvre d'outils nécessaires aux « learning analytics » ou analyse de l'apprentissage et définit les données clés afin de les extraire et de les combiner. Une connaissance du Data Mining sera appréciée.\nL'ingénieur.e contribue aux choix techniques des solutions, à la planification et à l'évaluation de la charge de travail et rend compte de son activité.\nMissions principales\n- Construire et maintenir un entrepôt de données\n- Développer les scripts et applications nécessaires à l'alimentation de l'entrepôt\nde données\n- Élaborer la stratégie de tests fonctionnels et techniques, les concevoir\net les exécuter\n- Rédiger la documentation technique\n- Résoudre ou faire remonter les incidents et optimiser les performances\n- Assurer la maintenance évolutive et curative des développements réalisés\n- Assurer une assistance technique et éventuellement fonctionnelle aux utilisateurs\n- Participer à l'administration du système d'information en termes de référentiels,\nrègles, démarches, méthodologies et outils\n- Mutualiser les bonnes pratiques en matière d'utilisation du système d'information\n- Conduire un projet informatique\nCompétences principales et spécifiques\n- Architecture et environnements techniques des systèmes d'information\n- Architecture et environnements des bases de données (maîtrise) : Oracle,\nPostgresql, MongoDB - Cassandra\n- Méthodologie de conduite de projet (connaissance approfondie)\n- Méthodes de modélisation et de développement liées aux ETL : Talend\n- Entrepôts de données et les outils de restitution\n- Outils de reporting : Jasper, Business Objects\n- Langages Java et les environnements de développement associés\n- Méthodes d'analyse et de conception\n- Méthodologie de tests (maîtrise)\n- Systèmes d'exploitation Linux et Windows\n- Sécurité des systèmes d'information et de communication\n\nProfil recherché:\n\nCompétences principales et spécifiques\n- Architecture et environnements techniques des systèmes d'information\n- Architecture et environnements des bases de données (maîtrise) : Oracle,\nPostgresql, MongoDB - Cassandra\n- Méthodologie de conduite de projet (connaissance approfondie)\n- Méthodes de modélisation et de développement liées aux ETL : Talend\n- Entrepôts de données et les outils de restitution\n- Outils de reporting : Jasper, Business Objects\n- Langages Java et les environnements de développement associés\n- Méthodes d'analyse et de conception\n- Méthodologie de tests (maîtrise)\n- Systèmes d'exploitation Linux et Windows\n- Sécurité des systèmes d'information et de communication ",
+            "dateCreation": "2022-01-06T12:05:47.000Z",
+            "dateActualisation": "2022-01-06T12:05:47.000Z",
+            "lieuTravail": {
+                "libelle": "77 - CHAMPS SUR MARNE",
+                "latitude": 48.851332,
+                "longitude": 2.59378,
+                "commune": "77083"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Informaticien / Informaticienne de développement",
+            "entreprise": {
+                "nom": "UNIVERSITE GUSTAVE EIFFEL",
+                "description": "\\n'Université Gustave Eiffel est née de la fusion de l'Université Paris-Est Marne-la-Vallée et de l'IFSTTAR, l'institut de la recherche européenne sur la ville et les territoires, les transports et le génie civil. Elle intègre une école d'architecture, l'EAV&T, et trois écoles d'ingénieurs, l'EIVP, l'ENSG Géomatique et ESIEE Paris. En réunissant pour la première fois en France le triptyque université / organismes de recherche / écoles, elle aura en particulier vocation à dév...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDD",
+            "typeContratLibelle": "Contrat à durée déterminée - 12 Mois",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "D",
+            "experienceLibelle": "Débutant accepté",
+            "salaire": {
+                "commentaire": "A partir de 30 k€ brut annuel"
+            },
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "85",
+            "secteurActiviteLibelle": "Enseignement supérieur",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7344298",
+                "partenaires": [
+                    {
+                        "nom": "APEC",
+                        "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167396653W?xtor=AL-406",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/apec80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "125TNWD",
+            "intitule": "Ingénieur / Ingénieure en développement d'applications (H/F)",
+            "description": " L'objectif à court terme est de développer la technologie qui permet la génération de tests unitaires pour Javascript, Typescript, Python, Java puis d'autres languages (aujourd'hui elle n'est fonctionnelle que pour JavaScript, Typescript et Python).\n\nGlobalement, voici  les thématiques autour desquelles le poste peut s'orienter :\n  Développement Back-end en Typescript/Node (Obligatoire)\n  Développement Front-End en React/Typescript (Optionnel)\nAttention, nous utilisons le typage de façon extrêmement poussé, mais nous sommes en mesure de t'accompagner pour une montée en compétence. Notre Mentor développeur sera là pour un on-boarding de qualité et t'accompagner en Pair-Programming pour une montée en compétence sur Typescript et notre Code-base. \n  Management de nos process / outils DevOps/Cloud \nPlus le produit grandit, plus nous aurons des problématiques poussées autour de l'automatisation et du Cloud. \nDans ce sens, nous aimerions que tu sois capable d'apporter des connaissances DevOps et d'entretenir un backlog de tâches infra.\nSi le sujet t'intéresse mais que tu n'as pas encore une maîtrise poussé, notre Mentor pourra également t'accompagner pour une montée en compétence. \n  Project Management/Scrum Master\nNous avons une équipe Produits de haut niveau mais nous souhaiterions avoir une personne côté tech capable de faire l'interface avec le chef de projet technique chez les clients afin de remonter les infos. Quelqu'un également capable de collaborer avec l'équipe Produit pour coordonner au mieux les devs et répondre aux besoins clients.\n\nNOTRE STACK :\n   Beaucoup de Typescript avec typage fort (Back et Front)\n  Javascript\n  Node.js\n  React\n  Go (un peu)\n  PostgrSQL\n  Docker (K8s et Terraform)\n  AWS, Azure\n\n  Les bonnes pratiques sont de rigueur, mais il reste de la marge pour progresser et gagner en agilité tout en étant irréprochable dans la qualité.\n\nNB: la fiche de poste n'est pas exhaustive. Il y a beaucoup de sujets à traiter chez Ponicode, il y a donc beaucoup d'opportunités de te positionner sur ceux qui t'intéressent le plus. C'est à toi de créer le poste qui te convient : \"Toutes les opportunités sont possibles à ce stade de l'entreprise. Nous sommes en train de construire l'équipe qui deviendra les fondations de Ponicode at Scale\"\n",
+            "dateCreation": "2022-01-04T15:30:54.000Z",
+            "dateActualisation": "2022-01-06T01:51:15.000Z",
+            "lieuTravail": {
+                "libelle": "75 - PARIS 01",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "codePostal": "75001",
+                "commune": "75101"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Ingénieur / Ingénieure en développement d'applications",
+            "entreprise": {
+                "nom": "PONICODE",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "D",
+            "experienceLibelle": "Débutant accepté",
+            "formations": [
+                {
+                    "codeFormation": "31054",
+                    "domaineLibelle": "informatique",
+                    "niveauLibelle": "Bac+5 et plus ou équivalents",
+                    "exigence": "E"
+                }
+            ],
+            "competences": [
+                {
+                    "code": "101388",
+                    "libelle": "Gestion des Ressources Humaines",
+                    "exigence": "S"
+                },
+                {
+                    "code": "101399",
+                    "libelle": "Marketing / Mercatique",
+                    "exigence": "S"
+                },
+                {
+                    "code": "102732",
+                    "libelle": "Langages de programmation informatique",
+                    "exigence": "E"
+                },
+                {
+                    "code": "109531",
+                    "libelle": "Algorithmique",
+                    "exigence": "E"
+                },
+                {
+                    "code": "109850",
+                    "libelle": "Programmation informatique",
+                    "exigence": "E"
+                },
+                {
+                    "code": "109852",
+                    "libelle": "Architecture d'applications",
+                    "exigence": "E"
+                },
+                {
+                    "code": "113277",
+                    "libelle": "Méthode AGILE",
+                    "exigence": "S"
+                },
+                {
+                    "code": "118748",
+                    "libelle": "Méthodologie Scrum",
+                    "exigence": "S"
+                },
+                {
+                    "code": "120246",
+                    "libelle": "Gestion de projet",
+                    "exigence": "S"
+                },
+                {
+                    "code": "120254",
+                    "libelle": "Architecture des systèmes d'information",
+                    "exigence": "E"
+                },
+                {
+                    "code": "120803",
+                    "libelle": "Programmation logicielle",
+                    "exigence": "E"
+                },
+                {
+                    "code": "109846",
+                    "libelle": "Concevoir et développer les programmes et applications informatiques",
+                    "exigence": "E"
+                },
+                {
+                    "code": "113315",
+                    "libelle": "Déterminer des choix techniques d'architecture logicielle et matérielle et sélectionner des technologies, matériels, logiciels, configurations",
+                    "exigence": "E"
+                },
+                {
+                    "code": "113321",
+                    "libelle": "Programmer dans un langage informatique spécifique",
+                    "exigence": "E"
+                },
+                {
+                    "code": "113330",
+                    "libelle": "Superviser et coordonner les réalisations, études ou développements informatiques (collaborateurs, sous-traitants)",
+                    "exigence": "S"
+                },
+                {
+                    "code": "115531",
+                    "libelle": "Sélectionner, assembler et intégrer des composants informatiques (progiciels, bases de données, développements spécifiques, ...)",
+                    "exigence": "E"
+                },
+                {
+                    "code": "117309",
+                    "libelle": "Établir un cahier des charges",
+                    "exigence": "S"
+                },
+                {
+                    "code": "118637",
+                    "libelle": "Analyser les besoins du client",
+                    "exigence": "E"
+                },
+                {
+                    "code": "120672",
+                    "libelle": "Réaliser des supports techniques",
+                    "exigence": "S"
+                },
+                {
+                    "code": "121028",
+                    "libelle": "Planifier les étapes d'un projet",
+                    "exigence": "S"
+                },
+                {
+                    "code": "121055",
+                    "libelle": "Déterminer des mesures correctives",
+                    "exigence": "E"
+                },
+                {
+                    "code": "121398",
+                    "libelle": "Analyser des problèmes techniques",
+                    "exigence": "E"
+                },
+                {
+                    "code": "124096",
+                    "libelle": "Présenter un produit fini à son commanditaire",
+                    "exigence": "E"
+                },
+                {
+                    "code": "124097",
+                    "libelle": "Promouvoir un projet",
+                    "exigence": "S"
+                },
+                {
+                    "code": "124517",
+                    "libelle": "Rédiger une Spécification Technique de Besoin (STB)",
+                    "exigence": "S"
+                },
+                {
+                    "code": "126535",
+                    "libelle": "Réaliser des études et développements informatiques",
+                    "exigence": "E"
+                }
+            ],
+            "salaire": {
+                "libelle": "Annuel de 38000,00 Euros à 65000,00 Euros",
+                "commentaire": "selon profil/expérience",
+                "complement1": "Autre"
+            },
+            "dureeTravailLibelle": "35H Horaires normaux",
+            "dureeTravailLibelleConverti": "Temps plein",
+            "alternance": false,
+            "contact": {
+                "coordonnees1": "https://www.welcometothejungle.com/en/companies/ponicode/jobs/software-engineer_paris",
+                "urlPostulation": "https://www.welcometothejungle.com/en/companies/ponicode/jobs/software-engineer_paris"
+            },
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "58",
+            "secteurActiviteLibelle": "Édition de logiciels système et de réseau",
+            "qualitesProfessionnelles": [
+                {
+                    "libelle": "Capacité d'adaptation",
+                    "description": "Capacité à s'adapter à des situations variées et à s'ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l'entreprise. Exemple : être souple, agile, s'adapter à une situation imprévue"
+                },
+                {
+                    "libelle": "Force de proposition",
+                    "description": "Capacité à être proactif, à initier, à imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou pour améliorer une situation. Exemple : proposer des améliorations, être positif et constructif"
+                },
+                {
+                    "libelle": "Autonomie",
+                    "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable"
+                }
+            ],
+            "origineOffre": {
+                "origine": "1",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/125TNWD"
+            },
+            "offresManqueCandidats": false
+        },
+        {
+            "id": "7506760",
+            "intitule": "Ingénieur IoT & Application Smartphone F/H - Informatique industrielle (H/F)",
+            "description": "Descriptif du poste:\n\nPrendre en charge le pilotage de projets IoT (hardware, firmware, portail web/base de données) et d'applications smartphone.\n* Finaliser l'industrialisation puis administrer le système d'Information des offres de contrôle d'accès sur point d'apport volontaire pour biodéchet pour les collectivités locales (deux projets en cours)\n* Piloter la phase finale de la mise en place des équipements connectés de collecte de biodéchet pour les gros producteurs (restauration collective et commerciale, grandes surfaces, etc.)\n* Pilotage du développement puis administration du système d'Information de nos équipements de traitement des déchets (bioséparateur)\n* Ajustement et/ou rédaction des cahiers des charges des futures offres AXIBIO\n* Gérer les logiciels et applications internes de l'entreprise (office, cloud, CRM etc..)\n\nProfil recherché:\n\nFormation\nDe formation ingénieur bac+5 (grande école ou université), généraliste ou informatique, avec les spécialisations suivantes : Télécommunication & IOT, Systèmes embarqués, Informatique et Réseau, ou autre majeure orientée informatique, vous justifiez idéalement d'une première expérience en IoT. \nCompétences techniques :\n \n* Expertise : IoT, internet et web\n* Maîtrise avancée de PHP, SQL, Java\n* Connaissance en électronique et systèmes embarqués\n* Bonne connaissance en Linux shell\n \nCompétences comportementales :\n* Gestion de projet, capacité de travail en groupe\n* Créativité, organisation, autonomie et prise d'initiatives\n* Qualités pédagogiques et relationnelles : capacité à gérer et faire travailler d'autres informaticiens.\n \nAutres :\n* déplacements fréquents sur les zones d'implantation des produits en France puis à l'étranger\n* Anglais obligatoire. ",
+            "dateCreation": "2022-01-10T08:53:21.000Z",
+            "dateActualisation": "2022-01-10T08:53:21.000Z",
+            "lieuTravail": {
+                "libelle": "92 - PUTEAUX",
+                "latitude": 48.884331,
+                "longitude": 2.237254,
+                "commune": "92062"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Ingénieur / Ingénieure d'application informatique",
+            "entreprise": {
+                "nom": "AXIBIO",
+                "description": "\\nAxibio est une start-up qui conçoit des équipements connectés et des solutions digitales pour la collecte et la valorisation des déchets alimentaires à destination des professionnels et des collectivités locales afin de répondre à l'obligation légale de la collecte sélective des biodéchets d'ici 2023.\\nAxibio, créée fin 2016, est basée à Puteaux (92) et a notamment obtenu les distinctions suivantes : French Tech Emergence 2017, Grand prix du jury des services innovants (EY) ...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "D",
+            "experienceLibelle": "Débutant accepté",
+            "salaire": {
+                "commentaire": "A négocier"
+            },
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "28",
+            "secteurActiviteLibelle": "Fabrication d'autres machines spécialisées",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7506760",
+                "partenaires": [
+                    {
+                        "nom": "APEC",
+                        "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167416269W?xtor=AL-406",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/apec80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7390339",
+            "intitule": "Responsable d'application (H/F)",
+            "description": "Description du poste :\nVous êtes motivé.e\n* pour mettre vos compétences au service d'un acteur majeur de la transition énergétique, expert et distributeur du gaz naturel ?\n* pour participer à l'avenir de la distribution du gaz naturel (compteur communicant, technologies du réseau intelligent, développement du biogaz et du GNV, .) ?\nVous souhaitez acquérir un véritable savoir-faire technique gazier dans une entreprise qui investit dans les innovations digitales ?\nRejoignez-nous à GRDF !\nGRDF, filiale indépendante d'ENGIE, est le principal gestionnaire de réseau de distribution de gaz naturel en France.\nGRDF distribue le gaz naturel à plus de 11 millions de clients, pour qu'ils disposent du gaz quand ils en ont besoin, quel que soit leur fournisseur.\nPour cela, et conformément à ses missions de service public, GRDF conçoit, construit, exploite, entretient le plus grand réseau de distribution d'Europe (198 886 km) et le développe dans plus de 9 500 communes, en garantissant la sécurité des personnes et des biens et la qualité de la distribution.\nChaque jour, ce sont 11 431 femmes et hommes qui s'investissent dans leur mission. Partout en France, des équipes sont prêtes à intervenir 24h/24 et 7j/7 pour fournir le meilleur service possible.\nAu sein de la Région Ile de France, GRDF recrute :\nUn.e Responsable Application BI POC (H/F)\nPoste basé à Paris(10)\nLe domaine SI Programme Opérateur de Comptage (SIPOC) est en responsabilité des SI permettant de calculer les consommations de Gaz des clients à partir de la chaine communicante de GRDF. Cette chaine communicante constituée de 11 millions de compteurs et d'environ 13 000 concentrateurs émettent des données vers les SI :\noSI d'Acquisition et de Supervision (SIAS) : SI qui reçoit les trames émises par les concentrateurs (essentiellement des index de consommation)\noSI de Traitement des Index et du Calcul des Consommations (TICC) : SI qui traite les trames envoyées par SIAS et qui calcule les consommations de Gaz\noSI d'Echange des Informations : qui permet de gérer les interfaces des différents SI\nIl existe également 2 autres SI au sein du domaine:\noSI e déploiement (SID) : SI qui permet de déployer les 11 millions de compteurs et les 13000 concentrateurs à horizon 2023\noSI décisionnel (BI POC) : SI qui permet de calculer des indicateurs métiers inhérents au Programme Opérateur de Comptage\nLes différents SI du domaine s'appuient principalement sur les technologies suivantes : Java/Weblogic, ETL Informatica, ordonnanceur VTOM, MDM Oracle et XenMobile, GED Nuxeo, progiciel Netika, environnements techniques : Linux, Solaris sur une infrastructure Oracle (Supercluster / Base de données Exadata).\nAu sein de la DSI de GRDF, le domaine Système d'Information Programme Opérateur de Comptage (SIPOC) recherche un responsable d'application décisionnelle (BI POC).\nLe Responsable application BI est intégré au sein d'une équipe amenée à évoluer qui assure le build, run, suivi & reporting et pilotage des fournisseurs/prestataires\nDescription du profil :\nQualifications\nIl assure le pilotage des applications sous sa responsabilité en mettant en œuvre les points suivants :\n-Gestion des différents environnements de développements/intégration,\n-Piloter le déploiement des livraisons sur ces différents environnements\n-Challenger techniquement l'intégrateur lors des conceptions,\n-Challenger fonctionnellement l'AMOA lors des SFD,\n-Challenger fonctionnellement le métier\n-Piloter l'activité des différentes parties prenantes (Intégrateur, Exploitation, AMOA, Métier),\n-Prioriser les chantiers en fonction des différentes contraintes (métier/SI/Réglementaire...),\n-Faire appliquer les bonnes normes (normes internes, best practice,...),\n-Valider la documentation nécessaire à la maintenance de l'application,\n-Appliquer et faire appliquer les process MCO (Ano Prod, Train de maintenance, suivi de version...),\n-Piloter les budgets liés à l'application (OPEX/CAPEX - Prévision/Réalisé/PDS...\n-Communiquer auprès des différents interlocuteurs (Métiers/Direction SI/...) avec le reporting/support adapté\nCes activités sont assurées :\n-Dans le respect du Schéma Directeur et du Plan de Transformation SI\n-En assurant la conformité des livrables aux politiques et standards de GRDF\nVous souhaitez travailler sur des applications stratégiques à fort enjeux, dans un contexte de forte évolution de l'écosystème métier et SI.\nVous possédez des compétences:\n-En management\n-En planification, pilotage, gestion des priorités, accompagnement et contrôle,\n-En maitrise des systèmes, architectures et outils BI\noModélisation décisionnelle (étoile, flocon, etc.)\noSGBD Oracle (exadata)~  ",
+            "dateCreation": "2022-01-07T13:44:53.000Z",
+            "dateActualisation": "2022-01-11T19:53:31.000Z",
+            "lieuTravail": {
+                "libelle": "75 - PARIS 09",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "commune": "75109"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Responsable d'application informatique",
+            "entreprise": {
+                "description": "Vous êtes motivé.e\n* pour mettre vos compétences au service d'un acteur majeur de la transition énergétique, expert et distributeur du gaz naturel ?\n* pour participer à l'avenir de la distribution du gaz naturel (compteur communicant, technologies du réseau intelligent, développement du biogaz et du GNV, .) ?\nVous souhaitez acquérir un véritable savoir-faire technique gazier dans une entreprise qui investit dans les innovations digitales ?\nRejoignez-nous à GRDF...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "D",
+            "experienceLibelle": "Débutant accepté",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7390339",
+                "partenaires": [
+                    {
+                        "nom": "METEOJOB",
+                        "url": "https://www.meteojob.com/candidat/offres/offre-d-emploi-responsable-d-application-h-f-paris-ile-de-france-energie-cdi-20638605",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7343894",
+            "intitule": "Ingénieur application mobile iOS/Android F/H - Informatique de gestion (H/F)",
+            "description": "Descriptif du poste:\n\nPour son activité mobile, Spirtech recherche des ingénieurs application mobile. Vous serez responsable de la conception (dès la réception du cahier des charges) à la réalisation d'applications logicielles pour téléphones mobiles (Android, Java, Java Card, iOS, Swift, etc.). etc.).\nLes travaux sont essentiellement réalisés dans nos locaux à Paris, et vous pourrez être en contact avec nos clients en France et dans le monde.\nAutonome et rigoureux, vous avez à cœur de vous investir dans une entreprise sérieuse et en plein développement dans un univers technologique de haut niveau (NFC, billettique, carte à puce sans contact, téléphonie mobile).\n\nProfil recherché:\n\nIngénieur ou équivalent, vous avez le sens du relationnel, volontaire et rigoureux.\nCompétences techniques : Android, Java, iOS, swift, et apportez une grande qualité dans vos réalisations.\nCompétences rédactionnelles : Rédaction de documents techniques.\nLangues: Français, anglais. ",
+            "dateCreation": "2022-01-06T12:04:04.000Z",
+            "dateActualisation": "2022-01-06T12:04:04.000Z",
+            "lieuTravail": {
+                "libelle": "75 - PARIS 02",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "commune": "75102"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Ingénieur / Ingénieure d'application informatique",
+            "entreprise": {
+                "nom": "Confidentiel",
+                "description": "\\nSpirtech, entreprise innovante, conçoit et réalise des produits de transactions électroniques sécurisées (ISO 14443, Calypso, NFC, télébillettique), des applications mobiles et serveurs à destination des transports publics et des services de vie quotidienne. Dotée d'une forte compétence technique, Spirtech accompagne ses clients dans la mise en place et la maîtrise de leurs systèmes.\\nSpirtech se développe et nous recherchons plusieurs profils, en CDI, qui souhaiteraient s'eng...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 1 An(s)",
+            "salaire": {
+                "commentaire": "30 - 45 k€ brut annuel"
+            },
+            "alternance": false,
+            "nombrePostes": 2,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "62",
+            "secteurActiviteLibelle": "Programmation informatique",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7343894",
+                "partenaires": [
+                    {
+                        "nom": "APEC",
+                        "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167391753W?xtor=AL-406",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/apec80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "125WKFV",
+            "intitule": "Ingénieur / Ingénieure d'application informatique",
+            "description": "Dans le cadre d'un important projet avec une entreprise grand compte, nous recherchons un Ingénieur DevOps.\n\n\n\nRattaché(e) à la DSI, vous serez amené(e) à mettre en place la nouvelle Architecture visant à consolider l'information, normaliser les échanges, urbaniser les applications, mettre en place l'intégration continue et le monitoring des différents applicatifs hébergés du groupe.\n\n\n\nSous la direction de l'Architecte solutions, en collaboration avec nos Ingénieurs Système d'une part, et l'équipe de développement d'autre part, vous aurez en charge les travaux DevOps de mise en place et de support.\n\n\n\nDans un premier temps :\n\n- Mise en place du SSO par OpenId (Keycloak)\n\n- Déploiement de l'API manager (WSO2)\n\n- Mise en place des outils CI/CD (Git, Gitea, Jenkins)\n\n- Redéploiement des applicatifs adaptés pour le SOA\n\n\n\nDans un second temps en parallèle de la maintenance (MCO + MCS) :\n\n- Mise en place du monitoring applicatif (ELK)\n\n- Tests unitaire, fonctionnel automatisés, qualité de code\n\n\n\nA moyen / long terme :\n\n- Mise en place de FranceConnect sur l'extranet du groupe\n\n\n\nAu quotidien vous serez amené(e) à :\n\n- Implémenter l'architecture définie\n\n- Mettre en place les bonnes pratiques de CI/CD\n\n- Challenger et proposer des solutions\n\n- Rédiger la documentation liée à l'installation et l'utilisation des outils\n\n- Assurer le support et veiller à la stabilité de l'ensemble\n\n\n\nCompétences requises :\nPragmatique et rigoureux(euse), vous vous connaissez les problématiques de développement Web / Php / Java, les protocoles de communication (ssh, ftp, http), le SSO, le SOA, les bases de données, Linux, les script shell, Apache \n\n\n\n\n\nCompétences requises :\n\nDiplômé d'une école d'ingénieur, d'études supérieures en informatique, BTS ou autodidacte, vous disposez d'au moins 3 ans d'expérience dans un poste identique ou similaire",
+            "dateCreation": "2022-01-05T16:08:27.000Z",
+            "dateActualisation": "2022-01-08T18:24:58.000Z",
+            "lieuTravail": {
+                "libelle": "75 - PARIS 17",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "codePostal": "75017",
+                "commune": "75117"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Ingénieur / Ingénieure d'application informatique",
+            "entreprise": {
+                "nom": "INFORMATIS T.S.",
+                "description": "INFORMATIS TS intervient depuis 1971 dans le conseil depuis l'étude organisationnelle stratégique d'ensemble, jusqu'au diagnostic, étude d'opportunité, étude de performance, schéma directeur et proposition de solutions adaptées.\n\nMise à disposition de nos consultants chez les clients pour la plupart Grands Comptes dans tous les domaines de l'informatique et des hautes technologies.",
+                "url": "http://www.informatis-ts.fr",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "3 ans",
+            "competences": [
+                {
+                    "code": "109846",
+                    "libelle": "Concevoir et développer les programmes et applications informatiques",
+                    "exigence": "S"
+                },
+                {
+                    "code": "117309",
+                    "libelle": "Établir un cahier des charges",
+                    "exigence": "S"
+                },
+                {
+                    "code": "118637",
+                    "libelle": "Analyser les besoins du client",
+                    "exigence": "S"
+                },
+                {
+                    "code": "121055",
+                    "libelle": "Déterminer des mesures correctives",
+                    "exigence": "S"
+                },
+                {
+                    "code": "124517",
+                    "libelle": "Rédiger une Spécification Technique de Besoin (STB)",
+                    "exigence": "S"
+                }
+            ],
+            "salaire": {
+                "libelle": "Annuel de 35000,00 Euros à 45000,00 Euros sur 12 mois"
+            },
+            "dureeTravailLibelle": "35H Horaires normaux",
+            "dureeTravailLibelleConverti": "Temps plein",
+            "alternance": false,
+            "contact": {
+                "nom": "INFORMATIS T.S. - M. MARC SOREL",
+                "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/125WKFV",
+                "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/125WKFV"
+            },
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "secteurActivite": "62",
+            "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+            "origineOffre": {
+                "origine": "1",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/125WKFV"
+            },
+            "offresManqueCandidats": false
+        },
+        {
+            "id": "6979828",
+            "intitule": "Concepteur d'applications (H/F)",
+            "description": "Description du poste :\nNous recherchons :\n1 Concepteur d'applications H/F\nRattaché(e) à la Direction des Opérations et de la Transformation - filière Offres, Distribution et Souscription, vous participez à la construction des nouveaux outils de cette direction.\nVos Missions Principales :\nAu sein d'une équipe de développement, vous assurez les travaux suivants:\n· Participer à la conception détaillée des applicatifs, avec la potentielle prise en charge d'échange de données avec l'extérieur\n· Assurer la cohérence fonctionnelle et technique de l'intégration des nouveaux développements dans l'architecture d'entreprise existante\n· Assurer l'intégrité des échanges applicatifs en lien avec le projet\n· Elaborer les jeux d'essais pour les tests unitaires, les tests d'assemblage et les tests d'intégration\n· Etre le garant du maintien des connaissances fonctionnelles et techniques nécessaires à la pérennité des applications\n· Etre leader sur l'orientation à donner aux développements ainsi qu'à l'amélioration/l'enrichissement des technologies utilisées\n· Effectuer le suivi d'avancement des travaux dont vous avez la charge\nProfil :\n· Vous justifiez d'une expérience d'au moins 5 ans en conception et développement d'applications informatiques, en architecture apéisée de préférence\n· Vous avez participé à des projets managés en mode Agile\n· Vous justifiez d'expérience significative (au moins 3 ans) sur les technologies Java J2EE, Springboot, Springbatch, Angular\n· Vous avez de bonnes capacités en communication, travail en équipe et vous savez être force de proposition\n· Une expérience dans le domaine des Assurances/Mutuelles serait un plus\nInformations complémentaires :\nType de contrat : CDI\nTemps complet\nSalaire annuel brut : Selon profil\nRéférence : HM/2021/699\n- Poste ouvert aux candidats en situation de handicap - ",
+            "dateCreation": "2021-12-28T13:42:30.000Z",
+            "dateActualisation": "2021-12-28T13:42:30.000Z",
+            "lieuTravail": {
+                "libelle": "75 - PARIS 09",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "commune": "75109"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Concepteur / Conceptrice d'application informatique",
+            "entreprise": {
+                "description": "Rejoindre Harmonie Mutuelle, c'est intégrer la première mutuelle de France. Plus de 4,5 millions de personnes lui font confiance pour protéger leur santé, choisir leur prévoyance, préparer leur retraite et pouvoir envisager l'avenir en toute sérénité. Favorisant l'accès aux soins pour tous, elle développe la prévention santé, négocie pour réduire les coûts, déploie un large réseau de santé et de soins et milite en faveur d'un système de protection sociale plus solidaire. ...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 3 An(s)",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/6979828",
+                "partenaires": [
+                    {
+                        "nom": "METEOJOB",
+                        "url": "https://www.meteojob.com/candidat/offres/offre-d-emploi-concepteur-d-applications-h-f-paris-ile-de-france-assurance-mutualite-cdi-20422349",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6930165",
+            "intitule": "DEVELOPPEUR APPLICATIONS CARTES A PUCES H/F",
+            "description": "Au sein de la Direction Développement & intégration du Pôle Identité située à Vélizy, nous recherchons un(e) Développeur applications cartes à puces H/F, pour un poste en CDI.\n\nSous la responsabilité du Responsable du département Systèmes d'émission, vous développez les applications logicielles de personnalisation de « cartes à puce » nécessaires aux projets de systèmes démission de titres d'identité (passeport, carte d'identité, titre de séjour, etc.) pilotés par le Pôle.\n\nVos principales missions sont : \n\nConcevoir et développer des applications logicielles de personnalisation de « cartes à puce » selon les spécifications fonctionnelles et techniques des projets\n\n * Développer et maintenir des applications logicielles de personnalisation et de lecture de carte à puce ;\n * Développer et maintenir des applet multi applicatives au standard Java Card / Global platform ;\n * Contribuer aux rituels Scrum ou réunion de projet avec les autres membres de l'équipe ;\n * Contribuer à la phase de déploiement continu ;\n * Contribuer à l'intégration et la validation du système ;\n * Accompagner les intégrateurs dans les phases de paramétrage ;\n * Contribuer à la phase de recettes ou d'IVVQ en préparant les scripts de tests et en traitant les anomalies remontées en période d'intégration, en améliorant la structure de l'applet ;\n * Assurer le support de niveau 3, maintenir et faire évoluer l'applet développé ;\n * Participer aux workshops avec les partenaires ;\n * Assurer les relations avec les fournisseurs et l'évaluation de cartes à puce ;\n * Apporter un support technique aux équipes de développement et aux équipes Offres lors de la phase avant-vente ;\n * Effectuer un reporting régulier de l'avancement des projets.\n\nGérer le suivi et le maintien des briques logicielles déployées dans le respect des normes de qualité et de sécurité du Groupe\n\n * Développement des scripts de tests et de maintenance pour des cartes à puce ;\n * Rédiger la documentation technique associée ;\n\n * Maitriser les enjeux liés à la sécurité des opérations effectuées sur/par des cartes à puce ;\n * Analyser et apporter son expertise des normes du domaine.\nDe formation Bac+5 (Master/Ingénieur), spécialisée en informatique ou logiciel embarqué, vous justifiez d'une expérience confirmée en développement et intégration de briques logicielles orientées cartes à puce.\n\nUne expérience dans le domaine identitaire serait un atout.\n\n * Vous maitrisez les langages C#, DOTNET, C++, java ;\n * Vous maitrisez les méthodes Agile et Scrum ;\n * Vous maîtrisez Docker/Kubernetes ;\n * Vous maîtrisez Tomcat, Apache webserver ;\n * Vous avez des connaissances Java Card, commandes APDU ;\n * Vous avez des connaissances des normes et protocoles Global platform\n * Vous avez des connaissances en Architecture micro service ;\n * Vous avez des connaissances en bases de donnée SQL et PostGreSQL ;\n * Vous avez des connaissances en PKI et certificat X509, signature électronique, cryptographie ;\n * Vous avez des connaissances dans les langages : HTML5, XML, Webservices \n * Vous connaissez les normes ICAO 9303, ISO 7816 ;\n * Vous avez une bonne capacité à travailler en équipe ;\n * Vous avez un niveau d'anglais technique (B2/C1). ",
+            "dateCreation": "2021-12-27T05:01:45.000Z",
+            "dateActualisation": "2021-12-27T05:01:45.000Z",
+            "lieuTravail": {
+                "libelle": "78 - VELIZY VILLACOUBLAY",
+                "latitude": 2.197075,
+                "longitude": 48.783985,
+                "commune": "78640"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse informatique",
+            "entreprise": {
+                "nom": "Imprimerie Nationale",
+                "description": "Dans un monde où les interactions se multiplient, IN Groupe protège votre identité, vos transactions et vos biens, contribuant à rendre votre vie à la fois plus sûre et plus simple. Référence sur les marchés de l'identité, des services numériques sécurisés, de la sécurisation des paiements et de l'authentification des biens et des objets, nous nous engageons pour la protection des données personnelles et pour que chacun puisse faire valoir ses droits.",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 5 An(s)",
+            "salaire": {
+                "libelle": "Annuel de 50000,00 Euros ï¿½ 55000,00 Euros"
+            },
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "secteurActivite": "71",
+            "secteurActiviteLibelle": "Ingénierie, études techniques",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/6930165",
+                "partenaires": [
+                    {
+                        "nom": "BROADBEAN",
+                        "url": "https://www.aplitrak.com/?adid=bC5iZWFsbGUuNjYxODEuNjcwNkBpbmdyb3VwZS5hcGxpdHJhay5jb20",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5190726",
+            "intitule": "Développeur / Développeuse d'application h/f",
+            "description": "VOTRE ROLE\n\n\n A Paris, les équipes de « Digital Twin » interviennent sur le développement, le support et la maintenance pour les outils de calculs scientifiques de nos clients.\n\n\nNous recherchons un Développeur Java expérimenté.\n\n\nVous pourrez évoluer sur les différentes phases du projet : analyse des besoins clients, définition de l'architecture logicielle, développement d'applications, gestion des données, et la mise en place de chaine DevOps.\n\n\nVous apporterez votre expérience dans le développement full stack d'applications.\n\n\n \nVOS COMPETENCES\n\n\nVous avez 5 ans d'expérience en développement sur des projets industriels en Java. Vous connaissez Spring, Hibernate, JSF, Struts ou d'autres frameworks. Vous savez également développer dans un environnement DevOps, d'intégration continue, Git, Docker, Kubernetes, Jenkins .\n\n\nVous disposez de compétences en bases de données et les langages associés et éventuellement vous connaissez le développement Angular.\n\n\nEnvie d'en savoir plus ? Nos collaborateurs prennent la parole !\n\n\n \n\n\nCAPGEMINI, entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise\n\nA compétences égales, priorité aux travailleurs handicapés et autres bénéficiaires de l'obligation d'emploi. ",
+            "dateCreation": "2021-11-17T05:00:18.000Z",
+            "dateActualisation": "2021-11-17T05:00:18.000Z",
+            "lieuTravail": {
+                "libelle": "92 - ISSY LES MOULINEAUX",
+                "latitude": 48.8239,
+                "longitude": 2.26287,
+                "codePostal": "92130",
+                "commune": "92040"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse d'application",
+            "entreprise": {
+                "description": " \n\nAvec près de 60 000 collaborateurs, la branche Digital Engineering and Manufacturing Services de Capgemini est dédiée à l'ingénierie industrielle et à l'innovation technologique dans les secteurs aéronautique, spatial, de l'énergie et du transport. \n\nNotre culture et notre histoire : Découvrez la culture d'entreprise chez Capgemini : ici\n\n ",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 2 An(s)",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/5190726",
+                "partenaires": [
+                    {
+                        "nom": "JOBINLIVE",
+                        "url": "http://www.missionhandicap.com/offre/1045881#utm_source=PoleEmploi",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/jobinlive80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "3986553",
+            "intitule": "Ingénieur / Ingénieure d'application informatique (H/F)",
+            "description": "Odigo est l'un des premiers **SaaS player français**, leader mondialement reconnu sur le marché de l'Expérience Client. Notre mission est de révolutionner les relations entre les grandes marques et leurs clients. Notre plate-forme, augmentée par l'Intelligence Artificielle, gère plus de 3 milliards de conversations par an. Nous recrutons plus de 150 passionnés pour accompagner notre forte croissance et rejoindre notre équipe de 650 collaborateurs en France, Angleterre, Allemagne et Espagne.   \n**Pourquoi rejoindre Odigo, une société certifiée Great Place to Work ?**\n- Un état d'esprit d'entraide avec un management accessible et transparent.\n- De la flexibilité notamment grâce au télétravail et à l'équilibre vie pro/perso.\n- De la convivialité et du sens : afterworks, challenges, bénévolat... \nSi comme nous, vous êtes **ouvert d'esprit**, **bienveillant** et **engagé**, rejoignez l'aventure Odigo ! \nLa Direction Product Management recrute un(e) :\n**Ingénieur QA DevOps F/H**\n**CDI → Issy-les-Moulineaux (92), Montpellier (34), Lyon (69) ou Rouen (76)**  \nVous travaillerez dans un contexte Agile en collaboration avec des équipes en France et à l'international (bureau présent en Espagne, en Angleterre, en Inde, au Maroc et aux Etats-Unis).\nDans une ambiance collaborative, vous retrouverez les méthodes de développement les plus modernes (Safe), au sein du département QA et dans un contexte Agile avec une relation directe au développement et à la production.\n**Vos principales missions ?** \n- Assurer la conformité des parcours clients par rapport aux besoins du métier\n- Assurer la qualité des livrables par la mise en place d'un plan de test des services.\nA ce titre, vos missions s'articulent autour des axes suivants : \n- Concevoir, développer, documenter, tester, industrialiser et maintenir les outils et interfaces à charge. \n- Maintenir les plateformes de service SVA/M/Digital/B2B\n- Effectuer les tests unitaires, d'intégration technique et fonctionnelle et de non-régression des services.\n- Assurer la mise en production des services et leur versionning sur les plateformes de production.\n- Réaliser les indicateurs de performances sur les services en production\n- Réaliser la retro-ingénierie des services.\n- Développer ou intégrer des solutions innovantes.\n- Organiser et piloter le suivi et la résolution des incidents et dysfonctionnements en production, aussi bien par des mesures correctives (chaine de soutien, etc.) que préventives (gestion capacitaire, amélioration continue). \n- Assure le premier niveau de validation des développements des prestataires externes.\n- Réaliser des tests unitaires et débogages et corriger des anomalies.\n- Définit une stratégie de test comportant une part d'automatisation. \n- Planifie et réalise les différentes tâches de test de nouvelles fonctionnalités / sprints. \n***Le testeur/qualifieur devra de plus en plus*** :\n- Travailler en features team.\n- Analyser et avoir un regard critique sur les résultats de tests (tests unitaires automatisés).\n- Comprendre et utiliser les services virtualisés.\n***Qualifications requises ?*** \n- Connaissance de la méthode agile scrum.\n- Anglais courant (oral et écrit) \n- Communication / Rédaction de compte rendu.\n- Esprit de synthèse / Connaissance de l'ISTQB.\n- Connaissances Linux / Windows / Selenium / Core Java/ Python/ XML/ JavaScript/ Cucumber / Oracle/ SQL.\n- Vous pouvez justifier d'une expérience des applications en micro-services et API REST.\n- Une expérience probante dans le domaine du devOps/Release manager/Automatisation de tests.\n- Avoir déjà participer et/ou mis en place un framework d'automatisation des tests ainsi que des processus d'organisation et de maintenance de ces derniers.\n- Connaissance en Delivery technologies (Kubernetes, Docker, ...)\n- Automatisation de la configuration avec un gestionnaire de configuration (Ansible, saltstack...).\n- Travailler ou mettre en place une plateforme CI/CD pour une équipe de test.\n- Avoir travaillé sur l'environnement cloud tel que AWS. \n- La capacité à travailler en équipe, et de pouvoir prendre le lead si besoin.\n***Les plus :***\n- Expérience sur les logiciels Contact Center (solution de centre d'appels).\n- Expérience chez un éditeur de logiciels.\n- Connaissance du mode SaaS. \n- Connaissances Jira &amp; Confluence/ suite microsoft office.\n**Votre profil ?**\n- De formation supérieure en informatique, vous êtes passionné par l'investigation technique et fonctionnelle. Analyser, rechercher et trouver des réponses dans des environnements technologiques complexes vous stimule et vous challenge.\n- D'un naturel organisé et rigoureux, vous cherchez régulièrement à amé  ",
+            "dateCreation": "2021-10-22T10:53:34.000Z",
+            "dateActualisation": "2021-11-11T05:00:12.000Z",
+            "lieuTravail": {
+                "libelle": "92 - ISSY LES MOULINEAUX",
+                "latitude": 48.82844,
+                "longitude": 2.263313,
+                "codePostal": "92130",
+                "commune": "92040"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Ingénieur / Ingénieure d'application informatique",
+            "entreprise": {
+                "nom": "Odigo",
+                "description": "Odigo est un éditeur de software CCaaS (Contact Center as a Service). Grâce à notre plateforme unique, nos clients peuvent répondre à toutes les questions et sollicitations de leurs clients finaux quel que soit le canal (voix, sms, chat, réseaux sociaux). \nOdigo compte aujourd'hui plus de 200 clients dans le monde et accompagne 400 000 agents de la relation client et ne cesse de s'affirmer leader mondial du CCaaS dans un marché très dynamique. \nOdigo est certifié Great...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 2 An(s)",
+            "formations": [
+                {
+                    "codeFormation": "31054",
+                    "domaineLibelle": "informatique",
+                    "niveauLibelle": "Bac+5 et plus ou équivalents",
+                    "exigence": "S"
+                }
+            ],
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "secteurActivite": "70",
+            "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/3986553",
+                "partenaires": [
+                    {
+                        "nom": "DIGITAL RECRUITERS",
+                        "url": "https://careers.odigo.com/fr/annonce/1429257-ingenieur-qa-devops-fh-92130-issy-les-moulineaux?s_o=P%C3%B4le+emploi&s_b=DigitalRecruiters",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/digitalrecruiters80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7492553",
+            "intitule": "Concepteur / Conceptrice d'application informatique h/f",
+            "description": "En tant que Lead Développeur Fullstack, tu : \n\n\n- Seras en charge d'accompagner et d'encadrer une équipe de développeurs \n\n\n- Organiseras, prioriseras et suivras l'exécution des tâches   \n\n\n- Réaliseras des études technico-fonctionnelles \n\n\n- Participeras aux chiffrages  \n\n\n- Contribueras à l'amélioration du projet\n\n\n-  Seras partie prenante de nos communautés \n\n\n \n\n\nTu es ouvert sur un des domaines suivants : \n\n\n- Développement Java J2EE, NodeJS\n\n\n- Frameworks : Spring, Angular et React   \n\n\n- Architectures : Microservices, Serverless \n\n\n- Cloud : Public (AWS, Azure, GCP)\n\n\n- Devops : Jenkins, Kubernetes, Docker \n\n\n- Methodologies : Scrum, SAFe \nTu te reconnais \n\n\n- Minimum 3 ans d'expérience sur un poste de Lead Développeur Fullstack\n\n\n- Être capable de mener des ateliers de conception / de participer à des process de réalisation \n\n\n- Avoir participé à une grande partie des phases d'un projet \n\n\n- Effectuer une veille technologique active, se former et partager ses connaissances \n\n\n- Avoir une première expérience dans l'encadrement de juniors ou une réelle volonté de transmettre tes compétences \n\n\n \n\n\n \n\nA compétences égales, priorité aux travailleurs handicapés et autres bénéficiaires de l'obligation d'emploi. ",
+            "dateCreation": "2022-01-10T04:55:39.000Z",
+            "dateActualisation": "2022-01-10T04:55:39.000Z",
+            "lieuTravail": {
+                "libelle": "92 - Hauts de Seine"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Concepteur / Conceptrice d'application informatique",
+            "entreprise": {
+                "description": "Chez Capgemini, nous t'aidons à construire ta carrière en mettant en place tout un panel d'outils pour continuer à te challenger techniquement !  \n\nQuelques raisons de nous croire  \n\n- Un coach de carrière dédié présent pour t'aider à construire ton parcours sur-mesure, te conseiller sur tes choix d'évolution, de formation et de montée en compétence. \n\n- Un système d'évaluation trimestriel pour en finir avec la longue attente des évaluation...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 5 An(s)",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7492553",
+                "partenaires": [
+                    {
+                        "nom": "JOBINLIVE",
+                        "url": "http://www.missionhandicap.com/offre/242738#utm_source=PoleEmploi",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/jobinlive80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7491756",
+            "intitule": "Développeur mobile Android - secteur ecommerce - application à fort trafic (H/F)",
+            "description": "Notre client recherche un.e développeur.euse Android pour rejoindre ses équipes.Il s'agit d'une application à très fort trafic avec près de 2 millions d'utilisateurs quotidien avec un moteur de recherche de 20'000 requêtes par seconde en heure de pointe.Au sein d'une équipe pluridisciplinaire agile composée de développeur.euses Frontend, iOS, Backend, Data et sous la responsabilité d'un Engineering Manager en collaboration directe avec le Product Owner, vous participerez à l'intégralité du processus de développement en intervenant sur la partie Android.Vos missions seront : Collaborer quotidiennement avec des personnes aux compétences variées (PO, UI/UX, développeurs·ses front, back, iOS, Data.) Développer de nouvelles fonctionnalités et parcours utilisateurs en respectant les guidelines de qualité, résilience, performance et scalabilité Optimiser les fonctionnalités existantes Garantir la qualité et la robustesse de l'app à travers différents tests : unitaires, intégration, automatisés, fonctionnels... Maintenir et enrichir la documentation technique\nCe poste est fait pour vous si : Vous justifiez d'au moins 5 ans d'expérience sur ce type de poste Maîtrise de Java et de Kotlin Design pattern MVP & MVVM Connaissance des librairies Retrofit, ViewModel, RxJava, Dagger sont nécessaires Connaissance de la Clean Architecture Application universelle / Material Design Notifications pushs Appels web services (REST, JSON) Git, Android Studio, Play StoreSoft Skills : Être capable de travailler en équipe dans une organisation agile qui privilégie le partage des connaissances et l'entraide Être capable de délivrer un travail tourné vers la satisfaction client (résultat et qualité) Vouloir découvrir et apprendre de nouvelles choses (curiosité technique et métier) Etre force de proposition sur les décisions / évolutions de l'app (Tech, Produit, UX) Travailler dans une bonne ambiance :\n-) ",
+            "dateCreation": "2022-01-09T21:07:43.000Z",
+            "dateActualisation": "2022-01-09T21:07:43.000Z",
+            "lieuTravail": {
+                "libelle": "75 - PARIS 15",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "commune": "75115"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse informatique",
+            "entreprise": {
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 5 An(s)",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7491756",
+                "partenaires": [
+                    {
+                        "nom": "JOBIJOBA",
+                        "url": "https://www.jobijoba.com/fr/annonce/26/6e0fce4567072346fd3c7792591dc7fb",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7491751",
+            "intitule": "Développeur mobile Android - secteur ecommerce - application à fort trafic (H/F)",
+            "description": "Notre client recherche un.e développeur.euse Android pour rejoindre ses équipes.Il s'agit d'une application à très fort trafic avec près de 2 millions d'utilisateurs quotidien avec un moteur de recherche de 20'000 requêtes par seconde en heure de pointe.Au sein d'une équipe pluridisciplinaire agile composée de développeur.euses Frontend, iOS, Backend, Data et sous la responsabilité d'un Engineering Manager en collaboration directe avec le Product Owner, vous participerez à l'intégralité du processus de développement en intervenant sur la partie Android.Vos missions seront : Collaborer quotidiennement avec des personnes aux compétences variées (PO, UI/UX, développeurs·ses front, back, iOS, Data.) Développer de nouvelles fonctionnalités et parcours utilisateurs en respectant les guidelines de qualité, résilience, performance et scalabilité Optimiser les fonctionnalités existantes Garantir la qualité et la robustesse de l'app à travers différents tests : unitaires, intégration, automatisés, fonctionnels... Maintenir et enrichir la documentation technique\nCe poste est fait pour vous si : Vous justifiez d'au moins 5 ans d'expérience sur ce type de poste Maîtrise de Java et de Kotlin Design pattern MVP & MVVM Connaissance des librairies Retrofit, ViewModel, RxJava, Dagger sont nécessaires Connaissance de la Clean Architecture Application universelle / Material Design Notifications pushs Appels web services (REST, JSON) Git, Android Studio, Play StoreSoft Skills : Être capable de travailler en équipe dans une organisation agile qui privilégie le partage des connaissances et l'entraide Être capable de délivrer un travail tourné vers la satisfaction client (résultat et qualité) Vouloir découvrir et apprendre de nouvelles choses (curiosité technique et métier) Etre force de proposition sur les décisions / évolutions de l'app (Tech, Produit, UX) Travailler dans une bonne ambiance :\n-) ",
+            "dateCreation": "2022-01-09T21:07:42.000Z",
+            "dateActualisation": "2022-01-09T21:07:42.000Z",
+            "lieuTravail": {
+                "libelle": "75",
+                "latitude": 48.859,
+                "longitude": 2.347,
+                "commune": "75056"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Développeur / Développeuse informatique",
+            "entreprise": {
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 5 An(s)",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "qualificationCode": "9",
+            "qualificationLibelle": "Cadre",
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7491751",
+                "partenaires": [
+                    {
+                        "nom": "JOBIJOBA",
+                        "url": "https://www.jobijoba.com/fr/annonce/26/7c4c83eed05e6311f1764c9157b89007",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7426044",
+            "intitule": "Concepteur / Conceptrice d'application informatique h/f",
+            "description": "Votre futur environnement de travail :  \n\n\nDans le cadre de notre développement auprès de nos clients grands comptes du monde du transport, nous recherchons un(e) ingénieur(e) étude et développement disposant d'une première expérience sur JAVA/JEE et souhaitant évoluer rapidement dans un contexte stimulant.\n\n\n\n\n\nAu sein de votre équipe, et sous la conduite de votre Chef de Projet, vous mettez en œuvre et développez vos compétences techniques et fonctionnelles en participant aux différentes phases d'un projet : de l'étude fonctionnelles et techniques jusqu'à la livraison.\n\nVotre rôle et missions : \n\n\nSous la responsabilité du Leader Technique, vous intervenez sur les missions suivantes :\n\n\n \n\n\nMise en place du développement applicative ;\n\n\n- Gestion des tests unitaires ;\n\n\n- Qualification et Intégration ;\n\n\n- Mise en production.\n\n\n\n\n\nVous participerez dans un second temps aux phases amonts des projets telles que :\n\n\n\n\n\n- Recueil et analyse du besoin client ;\n\n\n- Conception fonctionnelle ;\n\n\n- Architecture technique.\n\nVous allez ainsi rejoindre un environnement technologique riche et varié : Java, JEE, Spring, Angular\n\n\n \n\n\n \n\n\nCe que nous vous proposons : \n\n\n\n Progresser et développer vos compétences\n\n\n\nMatthieu, Référent technique : « L'académie Sopra-Steria est un outil formidable pour acquérir de nouvelles compétences très rapidement. Etant très curieux j'ai pu suivre de nombreuses formations. Cela m'a permis d'améliorer la qualité de mon code et de transmettre ces nouveaux savoir à mon équipe. »\n\n\n\n\n\n Evoluer dans une entreprise qui encourage l'audace, la curiosité et l'envie d'entreprendre\n\n\n\n \n\n\nPierre-Jean Leader Technique et Scrum Master : « Le groupe Sopra Steria nous a permis de développer un POC en équipe, pour une application de supervision d'environnement à partir de zéro. Grâce à cette application, notre client peut dorénavant anticiper les opérations de maintenance grâce à un système d'alerte. »\nDiplômé(e) d'une école d'Ingénieur ou équivalent universitaire, vous avez déjà une première expérience significative dans le développement.\n\n\nVous êtes reconnu(e) pour votre rigueur, votre pédagogie et votre capacité à transmettre vos connaissances et votre savoir-faire aux autres.\n\n\nAlors sans plus attendre, intégrez une entreprise où règne un esprit entrepreneurial fort et une atmosphère propice à votre évolution : participez à une transformation durable et énergétique grâce à une véritable aventure humaine au sein d'un grand groupe international.\n\n\n\n\n\nToutes nos opportunités sont ouvertes aux personnes en situation de handicap.\n\nPoste à pourvoir en CDI en Ile de France \n\nA compétences égales, priorité aux travailleurs handicapés et autres bénéficiaires de l'obligation d'emploi. ",
+            "dateCreation": "2022-01-08T06:39:08.000Z",
+            "dateActualisation": "2022-01-11T04:42:48.000Z",
+            "lieuTravail": {
+                "libelle": "95 - Val d'Oise"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Concepteur / Conceptrice d'application informatique",
+            "entreprise": {
+                "description": "Sopra Steria, l'un des leaders européens du conseil, des services numériques et de l'édition de logiciels, aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Il apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/7426044",
+                "partenaires": [
+                    {
+                        "nom": "JOBINLIVE",
+                        "url": "http://www.missionhandicap.com/offre/61d84167c9887#utm_source=PoleEmploi",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/jobinlive80.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5109810",
+            "intitule": "Concepteur / Conceptrice d'application informatique h/f",
+            "description": "L'équipe Axway Analytics crée des outils performants pour permettre la transmission et le stockage de gros volumes de données à l'aide de services sécurisés basés sur le cloud. Présentés via une interface utilisateur Web, ces services fournissent des informations qui permettent à nos clients de suivre l'utilisation des API et des services et de prendre des décisions éclairées et opportunes pour tirer parti des tendances commerciales.\n\n\n\nLe rôle :\n\n\n\nEn tant qu'ingénieur logiciel senior, vous rejoindrez une équipe développant des outils de pointe pour le big data, fonctionnant selon une méthodologie agile. Les tâches comprennent l'évaluation des exigences de notre équipe produit, la participation aux réunions et aux démonstrations de sprint, la contribution à la vision architecturale, ainsi que le développement et la révision de nouvelles fonctionnalités et de corrections.\nExpérience requise :\n\n\n\n4 ans d'expérience de codage en Java\n\n\n\nExpérience avec les JVM\n\n\n\nExpérience avec Elasticsearch\n\n\n\nExpérience avec les outils de surveillance et de mesure\n\n\n\nForte compréhension des technologies suivantes : HTTP, APIs, OAuth, REST, JSON\n\n\n\nExpérience des cadres d'automatisation des tests et volonté de fournir un code de haute qualité et facile à maintenir.\n\n\n\nSolides compétences en matière d'analyse et de dépannage\n\n\n\nBonnes compétences en communication en français et en anglais\n\n\n\n\n\n\nExpérience souhaitée :\n\n\n\nExpérience avec Kafka\n\n\n\nExpérience avec les outils d'infrastructure, tels que Jenkins ou d'autres outils CI/CD.\n\n\n\nExpérience avec JIRA\n\n\n\nIntérêt marqué pour les nouvelles technologies et les outils open source\n\n\n\nCapacité à guider et à encadrer des membres de l'équipe moins expérimentés.\n\n\n\nCapacité à contribuer à la mise en œuvre des meilleures pratiques et à en assurer le suivi.\n\n\n\nExpérience du développement de solutions SaaS, un atout\n\n\n\n \n\n\n\nChez Axway, nous savons que nos employés sont notre atout le plus important. Le développement de carrière des employés est un élément important de la culture d'Axway. Nous nous efforçons de promouvoir les employés en interne, en les aidant à créer et à suivre un plan de carrière qui les satisfasse et réponde aux objectifs de l'entreprise. Notre présence mondiale crée également des opportunités de carrière dans d'autres pays que les employés sont encouragés à explorer. Nous offrons un environnement de travail créatif et flexible, où les gens ont la possibilité de faire la différence.\n\n\n\n \n\nA compétences égales, priorité aux travailleurs handicapés et autres bénéficiaires de l'obligation d'emploi. ",
+            "dateCreation": "2021-11-15T03:11:21.000Z",
+            "dateActualisation": "2021-11-15T03:11:21.000Z",
+            "lieuTravail": {
+                "libelle": "92 - Hauts de Seine"
+            },
+            "romeCode": "M1805",
+            "romeLibelle": "Études et développement informatique",
+            "appellationlibelle": "Concepteur / Conceptrice d'application informatique",
+            "entreprise": {
+                "description": "En 2021, nous poursuivons nos ambitions pour continuer à permettre la transformation numérique des organisations.  Nous recherchons notre nouveau Account Executive API pour rejoindre la famille Axway.  Êtes-vous prêt ? Rejoignez-nous dès maintenant ! !!\n\nEnsemble, nous pouvons.  Ensemble, nous le ferons.  Axway est une société d'intégration d'entreprises qui, depuis plus de 20 ans, transforme numériquement des entreprises de toutes tailles - plus de 11 000 dans 100 pay...",
+                "entrepriseAdaptee": false
+            },
+            "typeContrat": "CDI",
+            "typeContratLibelle": "Contrat à durée indéterminée",
+            "natureContrat": "Contrat travail",
+            "experienceExige": "E",
+            "experienceLibelle": "Expérience exigée de 4 An(s)",
+            "salaire": {},
+            "alternance": false,
+            "nombrePostes": 1,
+            "accessibleTH": false,
+            "origineOffre": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/5109810",
+                "partenaires": [
+                    {
+                        "nom": "JOBINLIVE",
+                        "url": "http://www.missionhandicap.com/offre/618e439eb32a5#utm_source=PoleEmploi",
+                        "logo": "https://www.pole-emploi.fr/static/img/partenaires/jobinlive80.png"
+                    }
+                ]
+            }
+        }
+    ],
+    "filtresPossibles": [
+        {
+            "filtre": "typeContrat",
+            "agregation": [
+                {
+                    "valeurPossible": "CDD",
+                    "nbResultats": 3
+                },
+                {
+                    "valeurPossible": "CDI",
+                    "nbResultats": 21
+                }
+            ]
+        },
+        {
+            "filtre": "experience",
+            "agregation": [
+                {
+                    "valeurPossible": "0",
+                    "nbResultats": 1
+                },
+                {
+                    "valeurPossible": "1",
+                    "nbResultats": 8
+                },
+                {
+                    "valeurPossible": "2",
+                    "nbResultats": 10
+                },
+                {
+                    "valeurPossible": "3",
+                    "nbResultats": 5
+                }
+            ]
+        },
+        {
+            "filtre": "qualification",
+            "agregation": [
+                {
+                    "valeurPossible": "9",
+                    "nbResultats": 12
+                },
+                {
+                    "valeurPossible": "X",
+                    "nbResultats": 12
+                }
+            ]
+        },
+        {
+            "filtre": "natureContrat",
+            "agregation": [
+                {
+                    "valeurPossible": "E1",
+                    "nbResultats": 24
+                }
+            ]
+        }
+    ]
+}
