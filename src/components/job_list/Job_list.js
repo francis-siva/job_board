@@ -13,7 +13,7 @@ console.log(offers);
 /**
  * Get job proper publication format
  * For data like '2022-01-11T06:10:40.000Z' we will keep only '2022-01-11'
- * @param {string} inputDateTime 
+ * @param {string} inputDateTime
  */
 const formatDate = (inputDateTime) => { return inputDateTime.split('T')[0]; }
 
@@ -26,8 +26,8 @@ const JobList = () => {
             <p>Liste des offres d'emploi</p>
 
             {
-                !offers ? `<div>Aucun résultat pour le moment.<div>` :
-                
+                !offers ? (<div>Aucun résultat pour le moment.</div>) :
+
                 offers.map((jobItem, i) => {
                     console.log(jobItem.intitule);
                     console.log(jobItem.description);
@@ -39,7 +39,7 @@ const JobList = () => {
 
                     const jobCreatedDate = jobItem.dateCreation;
                     const jobUpdatedDate = jobItem.dateActualisation;
-                    
+
 
                     /* Keep this code to render available date in joblist */
                     if(jobUpdatedDate) {
