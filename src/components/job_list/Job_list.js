@@ -22,7 +22,7 @@ console.log(formatDate(dateFromDb))
 
 const JobList = () => {
     return (
-        <div className="Job_container">
+        <div className="job_container">
             <p>Liste des offres d'emploi</p>
 
             {
