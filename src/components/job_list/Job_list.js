@@ -21,7 +21,7 @@ const formatDate = (inputDateTime) => { return inputDateTime.split('T')[0]; }
 const JobList = () => {
     return (
         <div className="joblist_container">
-            <p>Liste des offres d'emploi</p>
+            <h2>Liste des offres d'emploi</h2>
             <ul>
             {
                 !offers
@@ -37,7 +37,7 @@ const JobList = () => {
                         console.warn(jobItem.dateActualisation);
 
 
-                        //return job_offer component to each jobItem
+                        //return JobOffer component to each jobItem
                         return (
                             <li key={i}>
                                 <JobOffer jobCategory={jobItem.romeLibelle}

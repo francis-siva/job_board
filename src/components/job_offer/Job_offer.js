@@ -18,8 +18,11 @@ const JobOffer = (props) => {
     return (
         <div className='job_offer_container'>
             <div>
-                <div>{props.jobCategory}</div>
+                <div>
+                    <span><i className="fa-solid fa-star"></i></span> {props.jobCategory}
+                </div>
                 <div>{offerDate(jobUpdatedDate, jobCreatedDate)}</div>
+                <div><i className="fa-solid fa-heart"></i></div>
             </div>
             <div>{props.jobTitle}</div>
             <div>
@@ -31,7 +34,7 @@ const JobOffer = (props) => {
                     ? <div>{props.society}</div>
                     : <div>Nom de l'entreprise non renseigné.</div>
                 }
-                <div><button>Postuler →</button></div>
+                <div><button>Postuler <span><i className="fa-solid fa-arrow-right"></i></span></button></div>
             </div>
         </div>
     );

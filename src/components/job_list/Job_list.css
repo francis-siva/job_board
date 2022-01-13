@@ -1,0 +1,11 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;justify-content: center;
+}
+
+ul .job_offer_container {
+    width: 300px;
+    height: 200px;
+    border: solid greenyellow;
+}
