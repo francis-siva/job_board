@@ -1,6 +1,7 @@
 import React from 'react';
 import './Job_list.css';
 import Employment from './../../assets/database.json';
+import JobOffer from '../job_offer/Job_offer';
 
 // const axios = require('axios');
 // axios.get('https://geo.api.gouv.fr/communes?codePostal=93700').then(res => {console.log(res.data); console.log(res.data[0].nom, res.data[0].codesPostaux[0])});
@@ -17,40 +18,42 @@ console.log(offers);
  */
 const formatDate = (inputDateTime) => { return inputDateTime.split('T')[0]; }
 
-let dateFromDb = '2022-01-11T06:10:40.000Z';
-console.log(formatDate(dateFromDb))
-
 const JobList = () => {
     return (
-        <div className="job_container">
+        <div className="joblist_container">
             <p>Liste des offres d'emploi</p>
-
+            <ul>
             {
-                !offers ? (<div>Aucun résultat pour le moment.</div>) :
-
-                offers.map((jobItem, i) => {
-                    console.log(jobItem.intitule);
-                    console.log(jobItem.description);
-                    console.log(jobItem.typeContrat);
-                    console.log(jobItem.experienceLibelle);
-                    console.log(jobItem.lieuTravail.libelle);
-                    console.log(jobItem.dateCreation);
-                    console.warn(jobItem.dateActualisation);
-
-                    const jobCreatedDate = jobItem.dateCreation;
-                    const jobUpdatedDate = jobItem.dateActualisation;
+                !offers
+                    ? (<li>Aucun résultat pour le moment.</li>)
+                    : offers.map((jobItem, i) => {
+                        console.log(jobItem.romeLibelle);
+                        console.log(jobItem.intitule);
+                        console.log(jobItem.description);
+                        console.log(jobItem.typeContrat);
+                        console.log(jobItem.experienceLibelle);
+                        console.log(jobItem.lieuTravail.libelle);
+                        console.log(jobItem.dateCreation);
+                        console.warn(jobItem.dateActualisation);
 
 
-                    /* Keep this code to render available date in joblist */
-                    if(jobUpdatedDate) {
-                        return (<div key={i}>Mise à jour le {formatDate(jobUpdatedDate)}</div>)
-                    }
-                    else {
-                        return jobCreatedDate? (<div key={i}>Crée le {formatDate(jobCreatedDate)}</div>) : '';
-                    }
-                    //return job_offer component to each jobItem
-                })
+                        //return job_offer component to each jobItem
+                        return (
+                            <li key={i}>
+                                <JobOffer jobCategory={jobItem.romeLibelle}
+                                    jobCreatedDate={formatDate(jobItem.dateCreation)}
+                                    jobUpdatedDate={formatDate(jobItem.dateActualisation)}
+
+                                    jobTitle={jobItem.intitule}
+                                    workPlace={jobItem.lieuTravail.libelle}
+                                    contractType={jobItem.typeContrat}
+                                    society={jobItem.entreprise.nom} 
+                                />
+                            </li>
+                        );
+                    })
             }
+            </ul>
         </div>
     );
 }

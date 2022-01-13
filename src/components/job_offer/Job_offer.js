@@ -1,18 +1,37 @@
 import React from 'react';
-import './Job_offer.css';
+import './job_offer.css';
 
 const JobOffer = (props) => {
+
+    const jobCreatedDate = props.jobCreatedDate;
+    const jobUpdatedDate = props.jobUpdatedDate;
+
+    const offerDate = (editedDate, publishedDate) => {
+        if(editedDate && editedDate.length > 0) {
+            return `Mise à jour le ${editedDate}`;
+        }
+        else {
+            return (publishedDate)? `Crée le ${publishedDate}` : `N/A`
+        }
+    }
+    
     return (
         <div className='job_offer_container'>
-            <div>{props.jobCreatedDate}</div>
-            <div>{props.intitule}</div>
             <div>
-                <div>{props.lieuTravail.libelle}</div>
-                <div>{props.typeContrat}</div>
+                <div>{props.jobCategory}</div>
+                <div>{offerDate(jobUpdatedDate, jobCreatedDate)}</div>
+            </div>
+            <div>{props.jobTitle}</div>
+            <div>
+                <div>{props.workPlace}</div>
+                <div>{props.contractType}</div>
             </div>
             <div>
-                <div>{props.society}</div>
-                <div><button>Postuler</button></div>
+                {props.society
+                    ? <div>{props.society}</div>
+                    : <div>Nom de l'entreprise non renseigné.</div>
+                }
+                <div><button>Postuler →</button></div>
             </div>
         </div>
     );
