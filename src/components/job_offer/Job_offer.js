@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './job_offer.css';
 
 const JobOffer = (props) => {
 
+    const [isfavorite, setIsfavorite] = useState(false);
     const jobCreatedDate = props.jobCreatedDate;
     const jobUpdatedDate = props.jobUpdatedDate;
 
@@ -22,7 +23,10 @@ const JobOffer = (props) => {
                     <span><i className="fa-solid fa-star"></i></span> {props.jobCategory}
                 </div>
                 <div className='offer_top_zone-right'>{offerDate(jobUpdatedDate, jobCreatedDate)}</div>
-                <div className='heart'><i className="fa-solid fa-heart"></i></div>
+                <div id='heart' onClick={() => {
+                    setIsfavorite(!isfavorite)
+                }}><i className={isfavorite? "fa-solid fa-heart pink_heart": "fa-solid fa-heart"}></i>
+                </div>
             </div>
             <div className='offer_middle_zone-upper'>{props.jobTitle}</div>
             <div className='offer_middle_zone-lower'>
