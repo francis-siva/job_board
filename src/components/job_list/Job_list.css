@@ -1,11 +1,19 @@
-ul {
+.joblist_container h2 {
+    color: #1a489f;
+    text-align: center;
+}
+
+.joblist_container ul {
     list-style-type: none;
     display: flex;
-    flex-direction: row;justify-content: center;
+    flex-direction: row;
+    /*justify-content: center;*/
+    flex-wrap: wrap;
+    gap: 10px 15px;
 }
 
 ul .job_offer_container {
     width: 300px;
     height: 200px;
-    border: solid greenyellow;
+    border: solid  #09687747;
 }
