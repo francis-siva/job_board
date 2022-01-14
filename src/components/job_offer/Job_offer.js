@@ -23,7 +23,7 @@ const JobOffer = (props) => {
                     <span><i className="fa-solid fa-star"></i></span> {props.jobCategory}
                 </div>
                 <div className='offer_top_zone-right'>{offerDate(jobUpdatedDate, jobCreatedDate)}</div>
-                <div id='heart' onClick={() => {
+                <div className='heart' onClick={() => {
                     setIsfavorite(!isfavorite)
                 }}><i className={isfavorite? "fa-solid fa-heart pink_heart": "fa-solid fa-heart"}></i>
                 </div>
